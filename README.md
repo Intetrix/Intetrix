@@ -4,7 +4,7 @@
 <img alt="stars-train" width="600px" src="https://media.tenor.com/WPqFfKvgIbUAAAAd/stars-train.gif"/>
 </p>
 
-[![codewars](https://www.codewars.com/users/Intetrix/badges/small)](https://www.codewars.com/users/Intetrix)
+p=. [![codewars](https://www.codewars.com/users/Intetrix/badges/small)](https://www.codewars.com/users/Intetrix)
 
 <!--
 **Intetrix/Intetrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
