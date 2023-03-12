@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4800&pause=1000&color=4D46A0&width=435&lines=Hi+there+(*%C2%B4%EF%B8%B6%60*)%E3%83%8E;Nice+to+meet+you!)](https://git.io/typing-svg)
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&size=25&duration=4800&pause=1000&color=4D46A0&width=435&lines=Hi+there+(*%C2%B4%EF%B8%B6%60*)%E3%83%8E;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</h1>
 <p align="center">
 <img alt="stars-train" width="700px" src="https://media.tenor.com/WPqFfKvgIbUAAAAd/stars-train.gif"/>
 </p>
