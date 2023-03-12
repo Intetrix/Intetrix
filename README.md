@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+<img alt="stars-train" width="600px" src="https://media.tenor.com/WPqFfKvgIbUAAAAd/stars-train.gif"/>
+</p>
 <!--
 **Intetrix/Intetrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
