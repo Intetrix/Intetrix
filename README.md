@@ -5,5 +5,5 @@
 </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 𝙸 𝚐𝚛𝚊d𝚞𝚊𝚝𝚎 𝚏ro𝚖 𝙼𝚎𝚍𝚒𝚌al University
+- 𝙸 𝚐𝚛𝚊d𝚞𝚊𝚝𝚎 𝚏ro𝚖 𝙼𝚎𝚍𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢
 - [![codewars](https://www.codewars.com/users/Intetrix/badges/small)](https://www.codewars.com/users/Intetrix)
