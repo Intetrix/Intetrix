@@ -5,4 +5,4 @@
 </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-[![codewars](https://www.codewars.com/users/Intetrix/badges/small)](https://www.codewars.com/users/Intetrix)
+- [![codewars](https://www.codewars.com/users/Intetrix/badges/small)](https://www.codewars.com/users/Intetrix)
