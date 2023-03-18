@@ -8,4 +8,4 @@
 - 🎓 𝙸 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝙼𝚎𝚍𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚎𝚍 𝚏𝚘𝚛 𝚜𝚘𝚖𝚎 𝚝𝚒𝚖𝚎 𝚊𝚜 𝚊 𝚙𝚜𝚢𝚌𝚑𝚒𝚊𝚝𝚛𝚒𝚜𝚝
 - 💻 𝙽𝚘𝚠 𝙸'𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 📚 𝙸'𝚖 𝚜𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝, 𝚋𝚞𝚝 𝚛𝚎𝚌𝚎𝚗𝚝𝚕𝚢 𝙸 𝚑𝚊𝚟𝚎 𝚋𝚎𝚎𝚗 𝚝𝚊𝚔𝚒𝚗𝚐 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚊𝚝 𝚝𝚑𝚎 𝚁𝚂 𝚂𝚌𝚑𝚘𝚘𝚕
-- 🏆 𝙰𝚋𝚘𝚞𝚝 𝚖𝚢 𝚌𝚘𝚍𝚎𝚠𝚊𝚛𝚜 [![codewars](https://www.codewars.com/users/Intetrix/badges/small)](https://www.codewars.com/users/Intetrix)
+- 🏆 𝙰𝚋𝚘𝚞𝚝 𝚖𝚢 𝚌𝚘𝚍𝚎𝚠𝚊𝚛𝚜 [![codewars](https://www.codewars.com/users/rsschool_b7c2a8b95ae6b314/badges/small)](https://www.codewars.com/users/rsschool_b7c2a8b95ae6b314)
